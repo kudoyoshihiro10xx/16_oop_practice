@@ -29,5 +29,4 @@ if __name__ == '__main__':
 
     # 円周を求める
     print(circle3.circumference())
-
     print(circle1.radius)
